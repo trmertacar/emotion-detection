@@ -1,5 +1,6 @@
 import os
 import cv2
+import face_recognition
 import numpy as np
 # from keras.preprocessing import image
 import keras.utils as image
